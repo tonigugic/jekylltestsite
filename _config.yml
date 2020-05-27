@@ -27,11 +27,15 @@ url: "http://testjekyllhead.com" # the base hostname & protocol for your site, e
 twitter_username:
 github_username:  tonigugic
 permalink: /:title/
+exclude: ["README.md","Gemfile","Gemfile.lock","gruntfile.js","package.json","node_modules","js/layout","js/production.js",vendor,"Rakefile","Procfile","config.ru"]
 
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed
+
+sass:
+    sass_dir: _sass
+    style: compressed  
 
 # Exclude from processing.
 # The following items will not be processed, by default.

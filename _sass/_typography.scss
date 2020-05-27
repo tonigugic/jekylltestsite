@@ -1,0 +1,46 @@
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif 
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+  transition: color 0.2s ease-in;
+
+  &.post-link {
+    font-size: 24px;
+  }
+}
+
+p {
+  font-size: 18px;
+  margin-bottom: 16px;
+  line-height: 1.4;
+  letter-spacing: -0.9px;
+}
+
+.post-title {
+  font-size: 48px;
+  margin-bottom: 32px;
+}
+
+.post-list-heading {
+  font-size: 48px;
+  margin-bottom: 32px;
+}
+
+.post-meta {
+  color: #595858;
+  text-transform: uppercase;
+  font-size: 11px;
+  margin-bottom: 0;
+}
+
+pre {
+  margin-bottom: 16px;
+  padding-left: 16px;
+}
+
+.highlighter-rouge {
+  padding-left: 16px;
+}
