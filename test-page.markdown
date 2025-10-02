@@ -1,5 +1,6 @@
 ---
-layout: page
 title: Test Page
-permalink: /test-page/
+permalink: "/test-page/"
+layout: page
 ---
+

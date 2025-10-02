@@ -1,10 +1,13 @@
 ---
+title: This is a Test Post!
+date: 2020-05-26 15:18:18 Z
+permalink: "/jekyll-is-awesome/"
+categories:
+- jekyll
+- update
 layout: post
-title:  "This is a Test Post!"
-date:   2020-05-26 17:18:18 +0200
-categories: jekyll update
-permalink: /jekyll-is-awesome/
 ---
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
