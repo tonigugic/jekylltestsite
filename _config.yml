@@ -2,6 +2,9 @@
 title: Jekyl Test Site
 timezone: UTC
 collections:
+  cards:
+    title: Cards
+    output: true
   posts:
     title: Posts
     output: true
