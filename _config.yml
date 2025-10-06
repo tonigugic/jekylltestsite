@@ -10,6 +10,8 @@ collections:
   posts:
     title: Posts
     output: true
+    Featured Image:
+      Image: "/uploads/capture_001_06102025_101313.jpg"
   uploads:
     title: Uploads
     output: true
