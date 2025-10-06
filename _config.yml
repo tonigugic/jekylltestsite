@@ -5,6 +5,8 @@ collections:
   cards:
     title: Cards
     output: true
+    Field name:
+    - 
   posts:
     title: Posts
     output: true
