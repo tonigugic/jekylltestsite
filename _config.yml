@@ -6,7 +6,7 @@ collections:
     title: Cards
     output: true
     Field name:
-    - 
+    - Featured  image: 
   posts:
     title: Posts
     output: true
